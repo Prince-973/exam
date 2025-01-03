@@ -2,4 +2,8 @@ hey
 hello
 how are you
 hola
+<<<<<<< HEAD
 konichiva
+=======
+Qua mira Quvo
+>>>>>>> new-branch
